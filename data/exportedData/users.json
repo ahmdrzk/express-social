@@ -1,0 +1,332 @@
+[
+  {
+    "_id": { "$oid": "61883b233e58ef00169dc5e0" },
+    "country": "Egypt",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel nisi non magna mattis aliquam.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636318083/express_social/users/user-61883b233e58ef00169dc5e0.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618845803e58ef00169dd031" },
+      { "$oid": "618843773e58ef00169dced4" }
+    ],
+    "followers": [
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "61883d363e58ef00169dc6e9" },
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618841f13e58ef00169dcc31" },
+      { "$oid": "618843773e58ef00169dced4" },
+      { "$oid": "618845803e58ef00169dd031" }
+    ],
+    "passwordChange": {
+      "_id": { "$oid": "61883b233e58ef00169dc5df" },
+      "createdAt": { "$date": "2021-11-07T20:46:27.276Z" },
+      "updatedAt": { "$date": "2021-11-07T20:46:27.276Z" }
+    },
+    "name": "Ahmed Rezk",
+    "email": "ahmed@mailsac.com",
+    "password": "$2a$12$o5WKubDM7BnYp6IJyYSOZuhpr/2Cq1Tuyz4Y4OZmp182y.kxqketu",
+    "birthdate": { "$date": "1989-01-01T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T20:46:27.92Z" },
+    "updatedAt": { "$date": "2021-11-08T10:05:39.761Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "61883c6c3e58ef00169dc61b" },
+    "country": "United States",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet vehicula felis, vel molestie.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636318372/express_social/users/user-61883c6c3e58ef00169dc61b.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883eb73e58ef00169dc813" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "61883faf3e58ef00169dc950" }
+    ],
+    "followers": [
+      { "$oid": "61883d363e58ef00169dc6e9" },
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618842cd3e58ef00169dcd8b" },
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "618845803e58ef00169dd031" }
+    ],
+    "passwordChange": {
+      "_id": { "$oid": "61883c6c3e58ef00169dc61a" },
+      "createdAt": { "$date": "2021-11-07T20:51:56.519Z" },
+      "updatedAt": { "$date": "2021-11-07T20:51:56.519Z" }
+    },
+    "name": "Marsha Shelton",
+    "email": "marsha@mailsac.com",
+    "password": "$2a$12$XMTVjlCa85lLIyGjD1XU.uCqB5za8Vol9wT8gJuw9SM0ZrAdV0k9O",
+    "birthdate": { "$date": "1985-01-01T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T20:51:57.12Z" },
+    "updatedAt": { "$date": "2021-11-08T10:41:45.437Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "61883d363e58ef00169dc6e9" },
+    "country": "Spain",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan tincidunt velit quis libero.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636318630/express_social/users/user-61883d363e58ef00169dc6e9.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [{ "$oid": "61883b233e58ef00169dc5e0" }, { "$oid": "61883c6c3e58ef00169dc61b" }],
+    "followers": [{ "$oid": "618843773e58ef00169dced4" }],
+    "passwordChange": {
+      "_id": { "$oid": "61883d363e58ef00169dc6e8" },
+      "createdAt": { "$date": "2021-11-07T20:55:18.476Z" },
+      "updatedAt": { "$date": "2021-11-07T20:55:18.476Z" }
+    },
+    "name": "Dennis Hanson",
+    "email": "dennis@mailsac.com",
+    "password": "$2a$12$AyKnzCbzMxmKbGCsFEcG6O2UYT88Ls2oqJUDMMwfxwRuoSU5pBBue",
+    "birthdate": { "$date": "1975-12-07T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T20:55:19.322Z" },
+    "updatedAt": { "$date": "2021-11-08T10:38:27.88Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "61883eb73e58ef00169dc813" },
+    "country": "United Kingdom",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit leo.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636318957/express_social/users/user-61883eb73e58ef00169dc813.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [],
+    "followers": [{ "$oid": "618843773e58ef00169dced4" }, { "$oid": "61883c6c3e58ef00169dc61b" }],
+    "passwordChange": {
+      "_id": { "$oid": "61883eb73e58ef00169dc812" },
+      "createdAt": { "$date": "2021-11-07T21:01:43.042Z" },
+      "updatedAt": { "$date": "2021-11-07T21:01:43.042Z" }
+    },
+    "name": "Ray Mccoy",
+    "email": "ray@mailsac.com",
+    "password": "$2a$12$paSYtcTTg9LkOcOU72tZMOvxgKkWN46a8v.0sDfxGe35UsHvovuv.",
+    "birthdate": { "$date": "1980-01-12T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:01:43.735Z" },
+    "updatedAt": { "$date": "2021-11-08T10:38:31.048Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "61883faf3e58ef00169dc950" },
+    "country": "Malaysia",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, massa quis lobortis tellus.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636319223/express_social/users/user-61883faf3e58ef00169dc950.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618843773e58ef00169dced4" },
+      { "$oid": "618845803e58ef00169dd031" }
+    ],
+    "followers": [{ "$oid": "61883b233e58ef00169dc5e0" }, { "$oid": "61883c6c3e58ef00169dc61b" }],
+    "passwordChange": {
+      "_id": { "$oid": "61883faf3e58ef00169dc94f" },
+      "createdAt": { "$date": "2021-11-07T21:05:51.208Z" },
+      "updatedAt": { "$date": "2021-11-07T21:05:51.208Z" }
+    },
+    "name": "Caleb Hart",
+    "email": "caleb@mailsac.com",
+    "password": "$2a$12$QG3win231QUHhZBFTRv7DOjgRK6Ejf8V3BPpfEE3wzSakHUWvwHOa",
+    "birthdate": { "$date": "1985-07-01T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:05:51.582Z" },
+    "updatedAt": { "$date": "2021-11-08T10:41:45.439Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618840b83e58ef00169dcac7" },
+    "country": "Denmark",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a fringilla nunc, nec aliquet nulla.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636319528/express_social/users/user-618840b83e58ef00169dcac7.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "618843773e58ef00169dced4" },
+      { "$oid": "618845803e58ef00169dd031" }
+    ],
+    "followers": [
+      { "$oid": "618841f13e58ef00169dcc31" },
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "618845803e58ef00169dd031" },
+      { "$oid": "618843773e58ef00169dced4" }
+    ],
+    "passwordChange": {
+      "_id": { "$oid": "618840b83e58ef00169dcac6" },
+      "createdAt": { "$date": "2021-11-07T21:10:16.765Z" },
+      "updatedAt": { "$date": "2021-11-07T21:10:16.765Z" }
+    },
+    "name": "Allen Peterson",
+    "email": "allen@mailsac.com",
+    "password": "$2a$12$udQlZSSUjwM83690h79jTuo.KHoK89lyHLnn5zYnO59FYxxM1vcqO",
+    "birthdate": { "$date": "1989-01-05T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:10:17.275Z" },
+    "updatedAt": { "$date": "2021-11-08T10:48:04.294Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618841f13e58ef00169dcc31" },
+    "country": "Slovenia",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit vel.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636319843/express_social/users/user-618841f13e58ef00169dcc31.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [{ "$oid": "61883b233e58ef00169dc5e0" }, { "$oid": "618840b83e58ef00169dcac7" }],
+    "followers": [{ "$oid": "618842cd3e58ef00169dcd8b" }],
+    "passwordChange": {
+      "_id": { "$oid": "618841f13e58ef00169dcc30" },
+      "createdAt": { "$date": "2021-11-07T21:15:29.394Z" },
+      "updatedAt": { "$date": "2021-11-07T21:15:29.394Z" }
+    },
+    "name": "Celina Howard",
+    "email": "celina@mailsac.com",
+    "password": "$2a$12$O4Jv5aj6sf7YVTnQ.daagujj030hE5ENCLNWzG2ZyoNRBw/3PLxdy",
+    "birthdate": { "$date": "1990-02-05T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:15:29.782Z" },
+    "updatedAt": { "$date": "2021-11-08T10:29:08.994Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618842cd3e58ef00169dcd8b" },
+    "country": "United States",
+    "status": "New UserLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636320003/express_social/users/user-618842cd3e58ef00169dcd8b.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [{ "$oid": "61883c6c3e58ef00169dc61b" }, { "$oid": "618841f13e58ef00169dcc31" }],
+    "followers": [{ "$oid": "618845803e58ef00169dd031" }],
+    "passwordChange": {
+      "_id": { "$oid": "618842cd3e58ef00169dcd8a" },
+      "createdAt": { "$date": "2021-11-07T21:19:09.912Z" },
+      "updatedAt": { "$date": "2021-11-07T21:19:09.912Z" }
+    },
+    "name": "June Steward",
+    "email": "june@mailsac.com",
+    "password": "$2a$12$8MRmhq8QHuPxepTFLWVJMOuKFr2b4b6iDMkaBnZH59jFZQCZxoALK",
+    "birthdate": { "$date": { "$numberLong": "-56079129600000" } },
+    "createdAt": { "$date": "2021-11-07T21:19:10.385Z" },
+    "updatedAt": { "$date": "2021-11-08T10:24:47.18Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618843773e58ef00169dced4" },
+    "country": "Armenia",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt, mi quis rutrum proin.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636320218/express_social/users/user-618843773e58ef00169dced4.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883d363e58ef00169dc6e9" },
+      { "$oid": "61883eb73e58ef00169dc813" },
+      { "$oid": "618845803e58ef00169dd031" },
+      { "$oid": "618840b83e58ef00169dcac7" }
+    ],
+    "followers": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618845803e58ef00169dd031" }
+    ],
+    "passwordChange": {
+      "_id": { "$oid": "618843773e58ef00169dced3" },
+      "createdAt": { "$date": "2021-11-07T21:21:59.62Z" },
+      "updatedAt": { "$date": "2021-11-07T21:21:59.62Z" }
+    },
+    "name": "Sean Hamilton",
+    "email": "sean@mailsac.com",
+    "password": "$2a$12$gd9AL/mnWrTMUuoKVU2ISelb0GSLbqVeiMqeDJUDorjLoDp54yCHq",
+    "birthdate": { "$date": "1979-01-01T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:22:00.011Z" },
+    "updatedAt": { "$date": "2021-11-08T10:52:37.352Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618845803e58ef00169dd031" },
+    "country": "Germany",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt, mi quis rutrum proin.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636320681/express_social/users/user-618845803e58ef00169dd031.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "618842cd3e58ef00169dcd8b" },
+      { "$oid": "61883c6c3e58ef00169dc61b" },
+      { "$oid": "618840b83e58ef00169dcac7" },
+      { "$oid": "618843773e58ef00169dced4" }
+    ],
+    "followers": [
+      { "$oid": "61883b233e58ef00169dc5e0" },
+      { "$oid": "618843773e58ef00169dced4" },
+      { "$oid": "61883faf3e58ef00169dc950" },
+      { "$oid": "618840b83e58ef00169dcac7" }
+    ],
+    "passwordChange": {
+      "_id": { "$oid": "618845803e58ef00169dd030" },
+      "createdAt": { "$date": "2021-11-07T21:30:40.902Z" },
+      "updatedAt": { "$date": "2021-11-07T21:30:40.902Z" }
+    },
+    "name": "Sophia Rose",
+    "email": "sophia@mailsac.com",
+    "password": "$2a$12$4tlA6i8XPlmng3Y76.iyrekWMXuDwTjudMWQirKB08lNkKXWtjQFS",
+    "birthdate": { "$date": "1989-01-12T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-07T21:30:41.322Z" },
+    "updatedAt": { "$date": "2021-11-08T10:52:37.349Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "618902524c52190016929519" },
+    "country": "United Kingdom",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae ligula tellus. Aliquam biam.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636369036/express_social/users/user-618902524c52190016929519.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [{ "$oid": "6189030f4c5219001692954c" }],
+    "followers": [{ "$oid": "6189030f4c5219001692954c" }],
+    "passwordChange": {
+      "_id": { "$oid": "618902524c52190016929518" },
+      "createdAt": { "$date": "2021-11-08T10:56:18.307Z" },
+      "updatedAt": { "$date": "2021-11-08T10:56:18.307Z" }
+    },
+    "name": "Suzanne Reynolds",
+    "email": "suzanne@mailsac.com",
+    "password": "$2a$12$6Ve0PTlBgs07Zx/frf1mlOPr.sVXTIDbjSH5Y8DIVctrd6x3YdHoW",
+    "birthdate": { "$date": "1984-01-05T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-08T10:56:18.675Z" },
+    "updatedAt": { "$date": "2021-11-08T11:01:06.014Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6189030f4c5219001692954c" },
+    "country": "Canada",
+    "status": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae ligula tellus. Aliquam biam.",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636369204/express_social/users/user-6189030f4c5219001692954c.jpg",
+    "role": "user",
+    "isDeactivated": false,
+    "following": [{ "$oid": "618902524c52190016929519" }],
+    "followers": [{ "$oid": "618902524c52190016929519" }],
+    "passwordChange": {
+      "_id": { "$oid": "6189030f4c5219001692954b" },
+      "createdAt": { "$date": "2021-11-08T10:59:27.496Z" },
+      "updatedAt": { "$date": "2021-11-08T10:59:27.496Z" }
+    },
+    "name": "Alan Bailey",
+    "email": "alan@mailsac.com",
+    "password": "$2a$12$MCN6b4H..Kvgo9DZZ1xd3OaujnEL6Y0yxglDxNMpFOQwVAPwOQukK",
+    "birthdate": { "$date": "1988-01-12T00:00:00Z" },
+    "createdAt": { "$date": "2021-11-08T10:59:27.889Z" },
+    "updatedAt": { "$date": "2021-11-08T11:01:06.016Z" },
+    "__v": 0
+  }
+]
