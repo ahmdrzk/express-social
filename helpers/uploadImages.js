@@ -21,7 +21,7 @@ const multerFileFilter = (req, file, cb) => {
 const userImagesStorage = new CloudinaryStorage({
   cloudinary: cloudinary,
   params: {
-    folder: "express_social/users/",
+    folder: "express-social/users/",
     public_id: (req, file) => `user-${req.params.userId}`,
   },
 });
@@ -29,7 +29,7 @@ const userImagesStorage = new CloudinaryStorage({
 const postImagesStorage = new CloudinaryStorage({
   cloudinary: cloudinary,
   params: {
-    folder: "express_social/posts/",
+    folder: "express-social/posts/",
   },
 });
 

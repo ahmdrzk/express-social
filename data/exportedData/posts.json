@@ -75,7 +75,7 @@
     "_id": { "$oid": "6188face4c52190016928355" },
     "authorId": { "$oid": "618840b83e58ef00169dcac7" },
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et ligula nec orci auctor accumsan vitae ut velit. Vivamus pretium, mauris sed condimentum tempus, sapien lacus dignissim dolor, et dictum mauris nulla et dui. Vestibulum vel tincidunt est.",
-    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367052/express_social/posts/do4c9za3pxvidaq7ium8.jpg",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367052/express-social/posts/do4c9za3pxvidaq7ium8.jpg",
     "createdAt": { "$date": "2021-11-08T10:24:14.116Z" },
     "updatedAt": { "$date": "2021-11-08T10:24:14.116Z" },
     "__v": 0
@@ -116,7 +116,7 @@
     "_id": { "$oid": "6188fc4d4c5219001692864b" },
     "authorId": { "$oid": "618843773e58ef00169dced4" },
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque feugiat bibendum nulla. Vivamus tortor libero, ultricies ac metus sed, dapibus fringilla metus. Donec convallis, tellus quis faucibus blandit, elit lorem luctus libero, non iaculis nam.",
-    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367437/express_social/posts/v6bq8q392zf5zqldggqr.jpg",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367437/express-social/posts/v6bq8q392zf5zqldggqr.jpg",
     "createdAt": { "$date": "2021-11-08T10:30:37.83Z" },
     "updatedAt": { "$date": "2021-11-08T10:30:37.83Z" },
     "__v": 0
@@ -133,7 +133,7 @@
     "_id": { "$oid": "6188fca04c521900169286a7" },
     "authorId": { "$oid": "61883c6c3e58ef00169dc61b" },
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget leo nec dui vulputate semper vitae id leo. Maecenas vel ipsum at quam dignissim facilisis quis in arcu. Ut vel orci urna sed.",
-    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367519/express_social/posts/xltc4jlisknenhs5iqrz.jpg",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367519/express-social/posts/xltc4jlisknenhs5iqrz.jpg",
     "createdAt": { "$date": "2021-11-08T10:32:00.368Z" },
     "updatedAt": { "$date": "2021-11-08T10:32:00.368Z" },
     "__v": 0
@@ -150,7 +150,7 @@
     "_id": { "$oid": "6188fd744c5219001692888b" },
     "authorId": { "$oid": "618843773e58ef00169dced4" },
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor lorem fringilla nulla dignissim, at facilisis ligula sagittis. Nulla sagittis, nulla sit amet tristique placerat, velit lacus est.",
-    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367731/express_social/posts/myxaohtg3puqtvva4aew.jpg",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636367731/express-social/posts/myxaohtg3puqtvva4aew.jpg",
     "createdAt": { "$date": "2021-11-08T10:35:32.395Z" },
     "updatedAt": { "$date": "2021-11-08T10:35:32.395Z" },
     "__v": 0
@@ -159,7 +159,7 @@
     "_id": { "$oid": "618900e44c5219001692921a" },
     "authorId": { "$oid": "61883b233e58ef00169dc5e0" },
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rutrum feugiat diam, in molestie nisi bibendum vel. Duis eleifend nunc non dignissim tempor. Duis in lectus vitae risus tempor ornare sit.",
-    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636368611/express_social/posts/wxqyt85tdvy5i8byay2c.jpg",
+    "image": "https://res.cloudinary.com/dhtbvdfsi/image/upload/v1636368611/express-social/posts/wxqyt85tdvy5i8byay2c.jpg",
     "createdAt": { "$date": "2021-11-08T10:50:12.124Z" },
     "updatedAt": { "$date": "2021-11-08T10:50:12.124Z" },
     "__v": 0

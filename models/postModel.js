@@ -58,7 +58,7 @@ postSchema.pre("deleteOne", { document: true }, async function (next) {
     if (this.image) {
       const urlArr = this.image.split("/");
 
-      const publicId = `express_social/posts/${urlArr[urlArr.length - 1].split(".")[0]}`;
+      const publicId = `express-social/posts/${urlArr[urlArr.length - 1].split(".")[0]}`;
 
       deleteImage(publicId);
     }
